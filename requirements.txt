@@ -1,0 +1,5 @@
+bleak
+numpy
+pyqt5
+pyqtgraph
+pytest
